@@ -1,0 +1,55 @@
+
+body{
+        font-family: 'poppins', sans-serif;
+        margin: 0;
+    }
+    h1{
+         font-size:30px;
+    }
+    .red-color{
+        color: palegreen;
+    }
+    .flexible-container{
+        display: flex;
+        margin-bottom: 150px;
+    }
+    .half-width{
+        width: 50%;
+        padding-left: 5%;
+        
+    }
+    
+    .half-width img{
+        width: 100%
+        
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(salmon,red);
+        padding: 8px 15px;
+        border-radius: 20px;
+    }
+    .about-me{
+        background-image: url(Frame\ 58.jpg);
+        background-repeat: no-repeat;background-position: right; 
+        
+    }
+    .food-cut{
+        text-align: center;
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+    .left_section img{
+        width: 100%;
+        margin: 5%;
+    }
+
+    .recipie-cut{
+        width: 30%;
+        
+        padding-right: 5%;
+        
+    }
+    .room-ram{
+        width: 10%;
+    }
